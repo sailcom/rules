@@ -12,9 +12,6 @@ DOMAIN-SUFFIX,region1.argotunnel.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
-# IP段匹配
-IP-CIDR,198.18.0.0/16,no-resolve
-
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub

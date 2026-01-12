@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,worthcloud.net
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,vkvm.info
+DOMAIN-SUFFIX,rainier.net.cn
+DOMAIN-SUFFIX,rainier.com.cn
+DOMAIN-SUFFIX,owmlab.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu

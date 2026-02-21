@@ -13,6 +13,9 @@ DOMAIN-SUFFIX,vkvm.info
 DOMAIN-SUFFIX,rainier.net.cn
 DOMAIN-SUFFIX,rainier.com.cn
 DOMAIN-SUFFIX,owmlab.net
+DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,oracleinfinity.io
+DOMAIN-SUFFIX,oracle.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
